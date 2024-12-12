@@ -437,7 +437,7 @@ function generate_name($flag, $ip, $port, $ping, $is_reality)
                 " | " .
                 " @VPNineh" .
                 " | " .
-                $ip;
+                $ping;
             break;
         case false:
             $name =
@@ -445,7 +445,7 @@ function generate_name($flag, $ip, $port, $ping, $is_reality)
                 " | " .
                 "@VPNineh" .
                 " | " .
-                $ip;
+                $ping;
             break;
     }
     return $name;
