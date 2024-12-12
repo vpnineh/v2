@@ -323,7 +323,7 @@ function get_flag($ip)
         $location = $ip_info["country"];
         $flag = $location . getFlags($location);
     } else {
-        $flag = "RELAY🚩";
+        $flag = "R 🚩";
     }
     return $flag;
 }
@@ -432,7 +432,7 @@ function generate_name($flag, $ip, $port, $ping, $is_reality)
     switch ($is_reality) {
         case true:
             $name =
-                "REALITY|" .
+                "R | " .
                 $flag .
                 " | " .
                 " @VPNineh" .
