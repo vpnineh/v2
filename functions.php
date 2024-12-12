@@ -436,14 +436,16 @@ function generate_name($flag, $ip, $port, $ping, $is_reality)
                 $flag .
                 " | " .
                 " @VPNineh" .
-                " | ";
+                " | " .
+                $ip;
             break;
         case false:
             $name =
                 $flag .
                 " | " .
                 "@VPNineh" .
-                " | ";
+                " | " .
+                $ip;
             break;
     }
     return $name;
