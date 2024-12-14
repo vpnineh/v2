@@ -6,5 +6,5 @@ $subscription_urls = [
   "https://raw.githubusercontent.com/coldwater-10/V2rayCollectorLire/main/ss_iran.txt",
   "https://raw.githubusercontent.com/coldwater-10/V2rayCollectorVpnclashfa/main/ss_iran.txt",
   #"https://raw.githubusercontent.com/Surfboardv2ray/v2ray-worker-sub/refs/heads/master/Eternity.txt",
-  #"https://raw.githubusercontent.com/coldwater-10/V2RayAggregator/refs/heads/master/Eternity.txt",
+  "https://raw.githubusercontent.com/coldwater-10/V2RayAggregator/refs/heads/master/Eternity.txt",
 ];
