@@ -9,7 +9,7 @@ $merged_vless = array_to_subscription($merged_data['vless']);
 $merged_reality = get_reality($merged_vless);
 $merged_trojan = array_to_subscription($merged_data['trojan']);
 $merged_shadowsocks = array_to_subscription($merged_data['ss']);
-$merged_mix = $merged_vmess . $merged_vless . $merged_trojan . $merged_shadowsocks ;
+$merged_mix = $merged_shadowsocks . $merged_vless . $merged_trojan . $merged_vmess ;
 
 file_put_contents("merged", $merged_mix);
 file_put_contents("merged_base64", base64_encode($merged_mix));
