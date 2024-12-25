@@ -4,7 +4,6 @@ include "config.php";
 include "functions.php";
 
 $merged_data = merge_subscription($subscription_urls);
-file_put_contents("data.txt", $merged_data['ss']);
 $merged_vmess = array_to_subscription($merged_data['vmess']);
 $merged_vless = array_to_subscription($merged_data['vless']);
 $merged_reality = get_reality($merged_vless);
@@ -13,7 +12,8 @@ $merged_shadowsocks = array_to_subscription($merged_data['ss']);
 $merged_mix = $merged_shadowsocks . $merged_vless . $merged_trojan . $merged_vmess ;
 
 $data = file_get_contents("data.txt");
-if($merged_data == $data)
+$data1 = file_get_contents("https://raw.githubusercontent.com/Surfboardv2ray/v2ray-worker-sub/refs/heads/master/Eternity.txt");
+if($data == $data1)
 { echo "tekrari";}
 else
 {
@@ -37,4 +37,6 @@ file_put_contents("Split/Normal/trojan", $merged_trojan);
 file_put_contents("Split/Base64/trojan", base64_encode($merged_trojan));
 file_put_contents("Split/Normal/shadowsocks", $merged_shadowsocks);
 file_put_contents("Split/Base64/shadowsocks", base64_encode($merged_shadowsocks));
+file_put_contents("data.txt", file_get_contents("https://raw.githubusercontent.com/Surfboardv2ray/v2ray-worker-sub/refs/heads/master/Eternity.txt"));
+
 }
