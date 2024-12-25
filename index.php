@@ -26,9 +26,9 @@ file_put_contents("merged", $merged_mix);
 file_put_contents("merged_base64", base64_encode($merged_mix));
 
 
-$randomFloat = mt_rand() / mt_getrandmax();
-file_put_contents("update/$randomFloat", $merged_mix);
-file_put_contents("update/ss/$randomFloat", $merged_shadowsocks);
+$date = date("Y/m/d - h:i:sa");
+file_put_contents("update/$date", $merged_mix);
+file_put_contents("update/ss/$date", $merged_shadowsocks);
 
 
 file_put_contents("Split/Normal/vmess", $merged_vmess);
