@@ -13,7 +13,7 @@ $merged_mix = $merged_shadowsocks . $merged_vless . $merged_trojan . $merged_vme
 
 $merged_content = file_get_contents("merged");
 if($merged_mix == $merged_content)
-{ echo"tekrari"}
+{ echo "tekrari";}
 else
 {
   
