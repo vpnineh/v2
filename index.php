@@ -12,7 +12,7 @@ $merged_shadowsocks = array_to_subscription($merged_data['ss']);
 $merged_mix = $merged_shadowsocks . $merged_vless . $merged_trojan . $merged_vmess ;
 
 $merged_content = file_get_contents("merged");
-if($merged_mix !== $merged_content)
+if($merged_mix != $merged_content)
 {
   
 file_put_contents("merged", $merged_mix);
