@@ -265,8 +265,8 @@ function remove_duplicate_ss($input)
 
     foreach ($array as $item) {
         $parts = ParseShadowsocks($item);
-        $part_hash = $parts["name"];
-        unset($parts["name"]);
+        $part_hash = $parts["server"];
+        unset($parts["server"]);
         ksort($parts);
         $part_serialize = serialize($parts);
         $result[$part_serialize][] = $part_hash ?? "";
@@ -276,7 +276,7 @@ function remove_duplicate_ss($input)
     foreach ($result as $url => $parts) {
         $partAfterHash = $parts[0] ?? "";
         $part_serialize = unserialize($url);
-        $part_serialize["name"] = $partAfterHash;
+        $part_serialize["server"] = $partAfterHash;
         $finalResult[] = BuildShadowsocks($part_serialize);
     }
 
