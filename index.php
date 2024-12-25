@@ -28,8 +28,8 @@ file_put_contents("merged_base64", base64_encode($merged_mix));
     $date  = date('Y-m-d H:i:s');
     $fileName = 'Archive';
     $fileName = $fileName.'_'.$date;
-    $path = 'update/$fileName';
-    $path2 = 'update/ss/$fileName';
+    $path = 'update/'.$fileName.'.txt';
+    $path2 = 'update/ss/'.$fileName.'.txt';
 
 file_put_contents($path, $merged_mix);
 file_put_contents($path2, $merged_shadowsocks);
