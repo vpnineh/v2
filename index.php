@@ -8,7 +8,7 @@ $data1 = file_get_contents("https://raw.githubusercontent.com/Surfboardv2ray/v2r
 
 if($data == $data1)
 {
-echo 'Done';
+exit(0);
 }
   
 else
