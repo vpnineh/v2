@@ -35,3 +35,5 @@ file_put_contents("Split/Base64/trojan", base64_encode($merged_trojan));
 file_put_contents("Split/Normal/shadowsocks", $merged_shadowsocks);
 file_put_contents("Split/Base64/shadowsocks", base64_encode($merged_shadowsocks));
 }
+else
+{echo "Tekrari";}
