@@ -26,9 +26,9 @@ file_put_contents("merged", $merged_mix);
 file_put_contents("merged_base64", base64_encode($merged_mix));
 
 
-$date = date("Y/m/d - h:i:sa");
-file_put_contents("update/$date", $merged_mix);
-file_put_contents("update/ss/$date", $merged_shadowsocks);
+$x = date("Y/m/d - h:i:sa");
+file_put_contents("update/$x", $merged_mix);
+file_put_contents("update/ss/$x", $merged_shadowsocks);
 
 
 file_put_contents("Split/Normal/vmess", $merged_vmess);
