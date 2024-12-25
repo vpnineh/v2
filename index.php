@@ -6,12 +6,7 @@ include "functions.php";
 $data = file_get_contents("data.txt");
 $data1 = file_get_contents("https://raw.githubusercontent.com/Surfboardv2ray/v2ray-worker-sub/refs/heads/master/Eternity.txt");
 
-if($data == $data1)
-{
-exit(0);
-}
-  
-else
+if($data != $data1)
 {
   
 $merged_data = merge_subscription($subscription_urls);
