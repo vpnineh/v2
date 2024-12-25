@@ -3,6 +3,15 @@
 include "config.php";
 include "functions.php";
 
+$data = file_get_contents("data.txt");
+$data1 = file_get_contents("https://raw.githubusercontent.com/Surfboardv2ray/v2ray-worker-sub/refs/heads/master/Eternity.txt");
+
+if($data == $data1)
+{ return false;}
+  
+else
+{
+  
 $merged_data = merge_subscription($subscription_urls);
 $merged_vmess = array_to_subscription($merged_data['vmess']);
 $merged_vless = array_to_subscription($merged_data['vless']);
@@ -11,12 +20,7 @@ $merged_trojan = array_to_subscription($merged_data['trojan']);
 $merged_shadowsocks = array_to_subscription($merged_data['ss']);
 $merged_mix = $merged_shadowsocks . $merged_vless . $merged_trojan . $merged_vmess ;
 
-$data = file_get_contents("data.txt");
-$data1 = file_get_contents("https://raw.githubusercontent.com/Surfboardv2ray/v2ray-worker-sub/refs/heads/master/Eternity.txt");
-if($data == $data1)
-{ return false;}
-else
-{
+
   
 file_put_contents("merged", $merged_mix);
 file_put_contents("merged_base64", base64_encode($merged_mix));
