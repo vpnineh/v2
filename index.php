@@ -8,9 +8,7 @@ $data1 = file_get_contents("https://raw.githubusercontent.com/Surfboardv2ray/v2r
 
 if($data == $data1)
 {
-  $merged_vless = array_to_subscription($merged_data['vless']);
-  $merged_reality = get_reality($merged_vless);
-  file_put_contents("Split/Normal/reality", $merged_reality);
+echo 'Done';
 }
   
 else
