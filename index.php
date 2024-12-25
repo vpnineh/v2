@@ -4,6 +4,7 @@ include "config.php";
 include "functions.php";
 
 $merged_data = merge_subscription($subscription_urls);
+file_put_contents("data.txt", $merged_data);
 $merged_vmess = array_to_subscription($merged_data['vmess']);
 $merged_vless = array_to_subscription($merged_data['vless']);
 $merged_reality = get_reality($merged_vless);
@@ -11,8 +12,8 @@ $merged_trojan = array_to_subscription($merged_data['trojan']);
 $merged_shadowsocks = array_to_subscription($merged_data['ss']);
 $merged_mix = $merged_shadowsocks . $merged_vless . $merged_trojan . $merged_vmess ;
 
-$merged_content = file_get_contents("merged");
-if($merged_mix == $merged_content)
+$data = file_get_contents("data.txt");
+if($merged_data == $data)
 { echo "tekrari";}
 else
 {
