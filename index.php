@@ -7,7 +7,7 @@ $data = file_get_contents("data.txt");
 $data1 = file_get_contents("https://raw.githubusercontent.com/Surfboardv2ray/v2ray-worker-sub/refs/heads/master/Eternity.txt");
 
 if($data == $data1)
-{ return false;}
+{ return "TEKRARI!";}
   
 else
 {
