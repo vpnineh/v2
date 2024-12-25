@@ -26,7 +26,7 @@ file_put_contents("merged", $merged_mix);
 file_put_contents("merged_base64", base64_encode($merged_mix));
 
 
-$x = date("Y/m/d - h:i:sa");
+$x = mt_rand() / mt_getrandmax();
 file_put_contents("update/$x", $merged_mix);
 file_put_contents("update/ss/$x", $merged_shadowsocks);
 
