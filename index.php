@@ -14,7 +14,6 @@ $merged_mix = $merged_shadowsocks . $merged_vless . $merged_trojan . $merged_vme
 file_put_contents("merged", $merged_mix);
 file_put_contents("merged_base64", base64_encode($merged_mix));
 
-// Archive
 $randomFloat = mt_rand() / mt_getrandmax();
 file_put_contents("update/$randomFloat", $merged_mix);
 
