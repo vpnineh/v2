@@ -12,7 +12,9 @@ $merged_shadowsocks = array_to_subscription($merged_data['ss']);
 $merged_mix = $merged_shadowsocks . $merged_vless . $merged_trojan . $merged_vmess ;
 
 $merged_content = file_get_contents("merged");
-if($merged_mix != $merged_content)
+if($merged_mix == $merged_content)
+{ echo"tekrari"}
+else
 {
   
 file_put_contents("merged", $merged_mix);
@@ -35,5 +37,3 @@ file_put_contents("Split/Base64/trojan", base64_encode($merged_trojan));
 file_put_contents("Split/Normal/shadowsocks", $merged_shadowsocks);
 file_put_contents("Split/Base64/shadowsocks", base64_encode($merged_shadowsocks));
 }
-else
-{echo "Tekrari";}
