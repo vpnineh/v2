@@ -26,7 +26,8 @@ file_put_contents("merged", $merged_mix);
 file_put_contents("merged_base64", base64_encode($merged_mix));
 
   //Archive - start
-  
+
+    date_default_timezone_set('Iran');
     $date  = date('Y-m-d H:i:s');
     $fileName = 'Archive';
     $fileName = $fileName.'_'.$date;
