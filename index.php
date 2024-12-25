@@ -25,6 +25,8 @@ $merged_mix = $merged_shadowsocks . $merged_vless . $merged_trojan . $merged_vme
 file_put_contents("merged", $merged_mix);
 file_put_contents("merged_base64", base64_encode($merged_mix));
 
+  //Archive - start
+  
     $date  = date('Y-m-d H:i:s');
     $fileName = 'Archive';
     $fileName = $fileName.'_'.$date;
@@ -34,6 +36,7 @@ file_put_contents("merged_base64", base64_encode($merged_mix));
 file_put_contents($path, $merged_mix);
 file_put_contents($path2, $merged_shadowsocks);
 
+  //Archive - End
 
 file_put_contents("Split/Normal/vmess", $merged_vmess);
 file_put_contents("Split/Base64/vmess", base64_encode($merged_vmess));
