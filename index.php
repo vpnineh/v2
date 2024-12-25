@@ -25,10 +25,14 @@ $merged_mix = $merged_shadowsocks . $merged_vless . $merged_trojan . $merged_vme
 file_put_contents("merged", $merged_mix);
 file_put_contents("merged_base64", base64_encode($merged_mix));
 
+    $date  = date('Y-m-d H:i:s');
+    $fileName = 'Archive';
+    $fileName = $fileName.'_'.$date;
+    $path = 'update/$fileName';
+    $path2 = 'update/ss/$fileName';
 
-$x = mt_rand() / mt_getrandmax();
-file_put_contents("update/$x", $merged_mix);
-file_put_contents("update/ss/$x", $merged_shadowsocks);
+file_put_contents($path, $merged_mix);
+file_put_contents($path2, $merged_shadowsocks);
 
 
 file_put_contents("Split/Normal/vmess", $merged_vmess);
