@@ -4,7 +4,7 @@ include "config.php";
 include "functions.php";
 
 $merged_data = merge_subscription($subscription_urls);
-file_put_contents("data.txt", $merged_data);
+file_put_contents("data.txt", $merged_data['ss']);
 $merged_vmess = array_to_subscription($merged_data['vmess']);
 $merged_vless = array_to_subscription($merged_data['vless']);
 $merged_reality = get_reality($merged_vless);
