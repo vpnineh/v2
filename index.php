@@ -51,6 +51,5 @@ file_put_contents("data.txt", file_get_contents("https://raw.githubusercontent.c
 else
 {
   echo "Tekrari. \n";
-  exit(0);
+  return(0);
 }
-  exit(0);
