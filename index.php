@@ -15,7 +15,7 @@ $merged_vless = array_to_subscription($merged_data['vless']);
 $merged_reality = get_reality($merged_vless);
 $merged_trojan = array_to_subscription($merged_data['trojan']);
 $merged_shadowsocks = array_to_subscription($merged_data['ss']);
-$merged_mix = $merged_shadowsocks . $merged_vless . $merged_trojan . $merged_vmess ;
+$merged_mix = $merged_vmess . $merged_shadowsocks . $merged_vless . $merged_trojan ;
 
 
   
