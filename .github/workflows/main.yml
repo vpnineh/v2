@@ -4,6 +4,7 @@ on:
   push:
     paths:
       - 'config.php'
+      - 'index.php'      
       - '.github/workflows/main.yml'
 
   workflow_dispatch:
