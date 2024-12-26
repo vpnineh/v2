@@ -5,7 +5,6 @@ ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.243:443#%F0%9F%87%BA%F0%9F%87%B8
 trojan://71409d3e488548e8bb076d229778f008@jobsfortheworldtoday.com:443?security=tls&sni=jobsfortheworldtoday.com#%F0%9F%87%BA%F0%9F%87%B8US-38.99.82.225-0164
 trojan://71409d3e488548e8bb076d229778f008@38.99.82.225:443?security=tls&sni=jobsfortheworldtoday.com#%F0%9F%87%BA%F0%9F%87%B8US-38.99.82.225-0069
 trojan://71409d3e488548e8bb076d229778f008@jobsfortheworldtoday.com:443?security=tls#%F0%9F%87%BA%F0%9F%87%B8US-38.99.82.225-0135
-trojan://71409d3e488548e8bb076d229778f008@jobsfortheworldtoday.com:443?security=tls&sni=jobsfortheworldtoday.com#%F0%9F%87%BA%F0%9F%87%B8US-38.99.82.225-0130
 vmess://ewogICAgImFkZCI6ICIxMDQuMjEuODMuMTA4IiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiaG1zMDIuZnhpYW9taS5zYnMiLAogICAgImlkIjogIjZjMTY4ZmNjLTIyMzEtNGYzYi04YzFlLWY2MzkxNjkyZGY0YSIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi9saW5rIiwKICAgICJwb3J0IjogNDQzLAogICAgInBzIjogIvCfj4FSRUxBWS0xMDQuMjEuODMuMTA4LTg2NTQiLAogICAgInRscyI6ICJ0bHMiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@sherasheba.com:443?security=tls#%F0%9F%87%BA%F0%9F%87%B8US-142.202.48.220-8646
 trojan://f0eb8c92ce8946aaba856569cff1a16b@142.202.48.220:443?security=tls&sni=sherasheba.com#%F0%9F%87%BA%F0%9F%87%B8US-142.202.48.220-4046
