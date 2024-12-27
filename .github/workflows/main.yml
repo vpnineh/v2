@@ -31,3 +31,7 @@ jobs:
           git add -A
           git commit -m "🚀 Successfully - $(TZ='Asia/Tehran' date '+%Y-%m-%d %H:%M:%S')"
           git push
+
+      - name: Check for changes
+        run: |
+          git diff --quiet || echo "No changes to commit"
