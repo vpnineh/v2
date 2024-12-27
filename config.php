@@ -2,6 +2,7 @@
 
 $subscription_urls = [
   #"https://github.com/Surfboardv2ray/Proxy-sorter/raw/refs/heads/main/custom/mahsa.txt",
+  #"https://raw.githubusercontent.com/Kwinshadow/TelegramV2rayCollector/main/sublinks/mix.txt",
   "https://raw.githubusercontent.com/Surfboardv2ray/v2ray-worker-sub/refs/heads/master/Eternity.txt",
   "https://raw.githubusercontent.com/vpnineh/sub/refs/heads/main/go",
   #"https://raw.githubusercontent.com/coldwater-10/V2RayAggregator/refs/heads/master/Eternity.txt",
