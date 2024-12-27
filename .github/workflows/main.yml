@@ -26,12 +26,10 @@ jobs:
       - name: Execute PHP script
         run: |
           php index.php
+          continue-on-error: true
+          git diff --quiet || echo "No changes to commit"
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add -A
           git commit -m "🚀 Successfully - $(TZ='Asia/Tehran' date '+%Y-%m-%d %H:%M:%S')"
           git push
-
-      - name: Check for changes
-        run: |
-          git diff --quiet || echo "No changes to commit"
