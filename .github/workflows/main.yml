@@ -27,7 +27,6 @@ jobs:
         run: |
           php index.php
           continue-on-error: true
-          git diff --quiet || echo "No changes to commit"
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add -A
