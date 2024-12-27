@@ -57,5 +57,6 @@ file_put_contents("Split/Base64/shadowsocks", base64_encode($merged_shadowsocks)
 file_put_contents("data.txt", file_get_contents("https://raw.githubusercontent.com/Surfboardv2ray/v2ray-worker-sub/refs/heads/master/Eternity.txt"));
 }
 else{
-break;
+echo "Condition not met, but exiting with code 0\n";
+    exit(0);
 }
