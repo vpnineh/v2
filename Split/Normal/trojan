@@ -1,8 +1,7 @@
-trojan://4732adfa16c6450bbef87264e41332db@165.22.74.230:443?security=tls&headerType=none&type=tcp&sni=nextstepcareer.online#DE🇩🇪 | @VPNineh | 159.32
-trojan://4732adfa16c6450bbef87264e41332db@nextstepcareer.online:443?allowInsecure=1#DE🇩🇪 | @VPNineh | 155.32
-trojan://e8105dfd24414268b6c7652c63731097@108.61.177.251:443?allowInsecure=1&sni=yournextcareerstep.online#FR🇫🇷 | @VPNineh | 129.86
-trojan://984e400bf5d541b7b0815913fe0c432a@yournextcareerstep.online:443?security=tls&headerType=none&type=tcp#FR🇫🇷 | @VPNineh | 125.15
-trojan://9d0a75d2-f747-4afa-b43f-d208af9e8f9a@bz02.ssr.ee:443?security=tls&headerType=none&type=tcp&sni=bz02.ssr.ee#BR🇧🇷 | @VPNineh | 158.47
-trojan://FuUaWS3YWG@38.175.201.156:2053?mode=gun&security=tls&alpn=h2&fp=chrome&type=grpc&sni=Crunch.floorshoping22.com#US🇺🇸 | @VPNineh | 80.13
-trojan://FuUaWS3YWG@38.175.201.156:2053?security=tls&type=grpc&sni=Crunch.floorshoping22.com#US🇺🇸 | @VPNineh | 81.27
-trojan://FuUaWS3YWG@Crunch.floorshoping22.com:2053?mode=multi&security=tls&alpn=h2&fp=chrome&type=grpc&sni=Crunch.floorshoping22.com#US🇺🇸 | @VPNineh | 67.04
+trojan://FuUaWS3YWG@38.175.201.156:2053?security=tls&type=grpc&sni=Crunch.floorshoping22.com#US🇺🇸 | @VPNineh | 169.28
+trojan://FuUaWS3YWG@Crunch.floorshoping22.com:2053?mode=multi&security=tls&alpn=h2&fp=chrome&type=grpc&sni=Crunch.floorshoping22.com#US🇺🇸 | @VPNineh | 113.38
+trojan://34ec6bdf-602c-4bbe-933a-5c0823524201@Cmc5.5gsieuvip.vn:443?allowInsecure=1#VN🇻🇳 | @VPNineh | 411.95
+trojan://9d0a75d2-f747-4afa-b43f-d208af9e8f9a@bz02.ssr.ee:443?security=tls&headerType=none&type=tcp&sni=bz02.ssr.ee#BR🇧🇷 | @VPNineh | 146.35
+trojan://FuUaWS3YWG@38.175.201.156:2053?mode=gun&security=tls&alpn=h2&fp=chrome&type=grpc&sni=Crunch.floorshoping22.com#US🇺🇸 | @VPNineh | 90.2
+trojan://FuUaWS3YWG@38.175.201.156:2053?security=tls&type=grpc&sni=Crunch.floorshoping22.com#US🇺🇸 | @VPNineh | 159.63
+trojan://FuUaWS3YWG@Crunch.floorshoping22.com:2053?mode=multi&security=tls&alpn=h2&fp=chrome&type=grpc&sni=Crunch.floorshoping22.com#US🇺🇸 | @VPNineh | 94.88
