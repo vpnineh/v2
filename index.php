@@ -4,7 +4,7 @@ include "config.php";
 include "functions.php";
 
 $data = file_get_contents("data.txt");
-$data1 = file_get_contents("https://raw.githubusercontent.com/Surfboardv2ray/v2ray-worker-sub/refs/heads/master/Eternity.txt");
+$data1 = file_get_contents("https://github.com/iPsycho1/Subscription/raw/refs/heads/main/iPsycho_Test-Config");
 
 
 
