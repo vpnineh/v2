@@ -4,7 +4,7 @@ include "config.php";
 include "functions.php";
 
 $data = file_get_contents("data.txt");
-$data1 = file_get_contents("https://github.com/Surfboardv2ray/Proxy-sorter/raw/refs/heads/main/custom/mahsa.txt");
+$data1 = file_get_contents("https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/refs/heads/main/countries/ir/mixed");
 
 
 
