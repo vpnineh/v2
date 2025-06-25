@@ -1,50 +1,50 @@
-vless://9e920ecc-22aa-43a9-ebc9-3120f1f2b892@85.133.250.30:20729?security=none&type=tcp&headerType=http#IR🇮🇷 | @VPNineh | 250.91
-vless://78371cad-d1f1-4b4c-d3c8-a6fb2cea67a4@94.183.233.38:16520?security=none&type=tcp#IR🇮🇷 | @VPNineh | 413.84
-vless://19335546-8ae2-4dd1-86da-987b2daa5a6c@62.60.176.99:8088?security=none&type=ws&path=%2F#IR🇮🇷 | @VPNineh | 173.35
-vless://6efe6cde-c728-453f-be31-9dc554e8f0ba@185.243.51.71:443?type=tcp&host=speedtest.net&headerType=http#US🇺🇸 | @VPNineh | 1.48
-vless://737d83d2-368e-430b-8292-7a7f1d38d783@62.60.176.61:2023?security=none&type=grpc&serviceName=2023vless#IR🇮🇷 | @VPNineh | 76.85
-vless://f6f6693f-365c-4ec0-bd1e-ebe9406ba595@5.160.35.247:5149?security=none&type=tcp&headerType=http#IR🇮🇷 | @VPNineh | 296.93
-vless://12139db7-7f56-4285-9d41-3824523b572e@185.143.235.201:8443?security=tls&sni=decd.edgeofknf.info&type=ws&host=decd.edgeofknf.info&path=%2F&fp=chrome&alpn=http%2F1.1#IR🇮🇷 | @VPNineh | 135.17
-vless://6b279116-4754-4037-9f90-a18131b312dd@45.159.148.152:80?security=none&type=tcp&host=varzesh3.com&headerType=http#IR🇮🇷 | @VPNineh | 19.61
-vless://6b279116-4754-4037-9f90-a18131b312dd@45.159.148.153:80?security=none&type=tcp&host=varzesh3.com&headerType=http#IR🇮🇷 | @VPNineh | 10.7
-vless://3f7fddf9-3fb7-4784-8f23-2b3caf1d850a@5.160.35.73:5126?security=none&type=tcp&headerType=http#IR🇮🇷 | @VPNineh | 306.08
-vless://53a58a9f-204a-4351-b093-16b9ada44071@185.143.232.201:2053?security=tls&sni=num.2d2d.ir&type=ws&path=%2F&fp=chrome#IR🇮🇷 | @VPNineh | 456.89
-vless://9e53942c-aa73-4b57-ba37-0ddc6fa53038@94.183.233.125:3801?security=none&type=tcp&headerType=http#IR🇮🇷 | @VPNineh | 460.83
-vmess://eyJhZGQiOiIxOTMuMTUxLjE0OS43NiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJiMWExMzVjZi0xMTgxLTRhYjktYTdiYy01OTk0Y2RjNmY0N2IiLCJuZXQiOiJ3cyIsInBhdGgiOiJcLyIsInBvcnQiOiIzMDI4NiIsInBzIjoiSVJcdWQ4M2NcdWRkZWVcdWQ4M2NcdWRkZjcgfCBAVlBOaW5laCB8IDQ0Ni4wOCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiJub25lIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
-vless://6715632f-8402-34dc-2da9-8947afa53d76@93.126.53.30:2053?security=none&type=tcp&host=snapp.taxi&headerType=http#IR🇮🇷 | @VPNineh | 367.79
-vless://b95b0e04-f7af-4949-b275-a3b46f176d16@78.39.51.198:49864?security=none&type=tcp&headerType=http#IR🇮🇷 | @VPNineh | 369.96
-vless://53bea386-912e-4fe3-9eff-59c2285a176c@194.50.216.61:2053?security=tls&sni=9.neshaan.org&type=ws&host=9.neshaan.org&path=%2Fadmins%3Fed%3D2560&fp=chrome&alpn=http%2F1.1#R 🚩 | @VPNineh | 115.36
-vless://eddf8778-1682-43d5-afa6-dcf3dbf63f82@2.189.117.109:2003?security=reality&flow=xtls-rprx-vision&sni=www.speedtest.net&type=tcp&fp=chrome&pbk=RiVTXWeVefxyMP869zKY2-YXoE7X2BdqQm53xGN99FE&sid=4c5bbe73#R | IR🇮🇷 |  @VPNineh | 395.41
-vless://7e3b4e5a-483f-4c2d-957d-765137dbe186@37.32.41.247:2095?security=none&type=ws&path=%2F#IR🇮🇷 | @VPNineh | 156.52
-vless://39d65c38-ec68-4808-bec4-53d61289a2dd@109.122.255.200:2050?security=reality&sni=www.cloudflare.com&type=grpc&serviceName=vless&fp=chrome&pbk=067cvQC8DmfUC3-Ry5Ur8Bo5iocIuE94nvnzgVFHUE0&sid=5760bd51d1f80cbf#R | IR🇮🇷 |  @VPNineh | 261.37
-vless://6cca7324-a7ed-4d1f-9497-f42622e9654a@46.38.150.123:9999?type=ws&path=%2F#IR🇮🇷 | @VPNineh | 270.94
-vless://33dcd6b4-3891-45c4-9749-9eff8f948eaf@89.235.116.41:8087?type=tcp&headerType=http#IR🇮🇷 | @VPNineh | 354.31
-vless://653f7a78-185a-47e3-a128-341b89bfa943@185.14.160.247:8086?security=reality&sni=www.speedtest.net&type=tcp&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#R | IR🇮🇷 |  @VPNineh | 317.1
-vmess://eyJhZGQiOiI0NS4xNTkuMTQ4LjE1NiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIwZDNkZWU2Ny0xMjEyLWVjNDUtODMxYS02ZGI4NWJkMDFmNTciLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjIwODYiLCJwcyI6IklSXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IHwgQFZQTmluZWggfCAyNDIuMjYiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoibm9uZSIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==
-vless://367ee021-7c4a-4ecf-aef0-5f7e55e3551f@37.32.41.95:57652?security=none&type=tcp#IR🇮🇷 | @VPNineh | 157.12
-vless://0528c4ad-90c5-47f6-b424-b3c47042e703@46.38.150.197:47533?security=none&type=grpc#IR🇮🇷 | @VPNineh | 346.33
-vless://a9fcd6e8-25e9-4a85-9311-533646e0a5fc@5.160.35.246:6587?security=none&type=tcp&headerType=http#IR🇮🇷 | @VPNineh | 314.05
-vless://5c65ddb9-041f-4df9-8416-d0b02b10aee5@5.160.35.249:5075?security=none&type=tcp&headerType=http#IR🇮🇷 | @VPNineh | 354.24
-vless://58f69b21-e3f8-4f5e-976b-d738396ba1a4@185.255.91.90:443?security=none&type=ws&path=%2Farash#IR🇮🇷 | @VPNineh | 269.51
-vless://72ad4918-47cb-4ccc-ab21-e52b869547a0@109.122.240.17:80?type=ws&host=pamchall.com.&path=%2FMosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2%3Fed%3D2560#R 🚩 | @VPNineh | 55.23
-vless://a3f9a775-78b9-488c-9f52-8a43c6259d5c@37.32.126.118:2020?security=none&type=tcp#IR🇮🇷 | @VPNineh | 381.5
-vless://3d0b7807-bac3-4335-bde5-24b3ee48cd82@5.160.35.73:5211?security=none&type=tcp&headerType=http#IR🇮🇷 | @VPNineh | 371.66
-vless://beb8f240-0468-46a6-a535-344c964e9a6d@85.198.22.222:443?security=none&type=tcp&headerType=http#IR🇮🇷 | @VPNineh | 449.72
-vless://78c27184-27e9-4d0f-963f-c22c2a80e404@188.212.97.116:41449?security=none&type=tcp&headerType=http#IR🇮🇷 | @VPNineh | 277.16
-vless://ed6fb549-d962-4e32-bb16-544c58b7b31f@5.160.35.249:5118?security=none&type=tcp&headerType=http#IR🇮🇷 | @VPNineh | 310.24
-vless://2df5f1d0-1f5f-4097-8c26-53bb2f19bcd3@46.38.150.113:8080?security=none&type=ws&path=%2F#IR🇮🇷 | @VPNineh | 232.49
-vless://a9fcd6e8-25e9-4a85-9311-533646e0a5fc@5.160.35.73:6985?security=none&type=tcp&headerType=http#IR🇮🇷 | @VPNineh | 303.58
-vless://d5fdc459-436b-459d-beda-b06d70c93af1@5.160.35.246:5131?security=none&type=tcp&headerType=http#IR🇮🇷 | @VPNineh | 297.29
-vless://a9fcd6e8-25e9-4a85-9311-533646e0a5fc@5.160.35.249:6985?security=none&type=tcp&headerType=http#IR🇮🇷 | @VPNineh | 343.68
-vless://5c65ddb9-041f-4df9-8416-d0b02b10aee5@5.160.35.247:5075?security=none&type=tcp&headerType=http#IR🇮🇷 | @VPNineh | 304.43
-vless://413775c3-ec6e-4d65-a969-336205799f44@5.160.35.249:5112?security=none&type=tcp&headerType=http#IR🇮🇷 | @VPNineh | 308.95
-vless://7db53b99-b560-4d25-9b6d-b9bc2ee81398@185.143.232.201:2087?security=tls&sni=vip9.nikatel.store&type=ws&host=vip9.nikatel.store&path=%2F#IR🇮🇷 | @VPNineh | 29.49
-vless://37c6ed34-9359-41d1-9c41-485392b54a23@87.236.38.36:2400?security=none&type=tcp#IR🇮🇷 | @VPNineh | 280.52
-trojan://pYvkMQEdWp@95.38.102.138:54057?security=tls&sni=berno30.freedaom.top&type=tcp&alpn=h2%2Chttp%2F1.1&allowInsecure=1#NL🇳🇱 | @VPNineh | 313.56
-vless://e3c249a9-0105-41ed-f8ec-cc26a75a85b0@185.143.233.120:80?security=none&type=ws&host=rmagrm3etov-60c9e41acd-camera.apps.ir-central1.arvancaas.ir&path=%2Fop%2FTOP%2FShopy#IR🇮🇷 | @VPNineh | 179.11
-vless://d5fdc459-436b-459d-beda-b06d70c93af1@5.160.35.249:5131?security=none&type=tcp&headerType=http#IR🇮🇷 | @VPNineh | 311.86
-vless://413775c3-ec6e-4d65-a969-336205799f44@5.160.35.248:5112?security=none&type=tcp&headerType=http#IR🇮🇷 | @VPNineh | 369.97
-vless://88c3aef2-1d9d-4754-92f2-659117b399d6@2.188.224.151:17200?type=ws#IR🇮🇷 | @VPNineh | 390.32
-vless://d5fdc459-436b-459d-beda-b06d70c93af1@5.160.35.73:5131?security=none&type=tcp&headerType=http#IR🇮🇷 | @VPNineh | 300.62
-vless://19335546-8ae2-4dd1-86da-987b2daa5a6c@62.60.176.108:8088?security=none&type=ws&path=%2F#IR🇮🇷 | @VPNineh | 178.98
-vless://13c3cfca-f499-6c67-0b88-17a33952efcb@45.159.112.95:80?security=none&type=tcp&host=dorna-music.ir&headerType=http#R 🚩 | @VPNineh | 174.47
+trojan://$Iu_sL4k*u,9@185.143.235.201:2096?security=tls&sni=anten.ir&type=ws&host=mail.link.link-kon.ir&path=%2FtrPrm7agLwtAsC9J9F%3Fed%5Cu003d2560&fp=randomized&alpn=http%2F1.1#IR🇮🇷 | @VPNineh | 280.79
+vless://3d0b7807-bac3-4335-bde5-24b3ee48cd82@5.160.35.249:5211?security=none&type=tcp&headerType=http#IR🇮🇷 | @VPNineh | 228.55
+vless://a9fcd6e8-25e9-4a85-9311-533646e0a5fc@5.160.35.247:6587?security=none&type=tcp&headerType=http#IR🇮🇷 | @VPNineh | 224.71
+vless://2cf55e47-b788-43b3-8e2c-bc0672991b88@2.189.175.37:5053?security=none&type=tcp&path=%2F&headerType=http#IR🇮🇷 | @VPNineh | 218.63
+vless://65d47294-8c54-4e01-cd36-747f6dadca36@2.188.224.162:18200?type=ws#IR🇮🇷 | @VPNineh | 214.79
+vless://f456a478-b619-4f8c-8e43-2b3b2844d4bc@46.38.136.212:443?security=none&type=tcp#IR🇮🇷 | @VPNineh | 196.66
+vless://f6f6693f-365c-4ec0-bd1e-ebe9406ba595@5.160.35.249:5149?security=none&type=tcp&headerType=http#IR🇮🇷 | @VPNineh | 229.48
+vmess://eyJ2IjoiMiIsInBzIjoiSVJcdWQ4M2NcdWRkZWVcdWQ4M2NcdWRkZjcgfCBAVlBOaW5laCB8IDE5NC4zNSIsImFkZCI6Ijc4LjM5LjkuMTM0IiwicG9ydCI6IjgwOTAiLCJpZCI6Ijg5MWUxZDFjLTVmYmMtNDBjYi05MjU2LTU4YjAxNmI2YjYwMCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6IiIsInRscyI6IiIsInNuaSI6IiIsImFscG4iOiIiLCJmcCI6IiJ9
+vless://e914afcb-be8a-4633-a7fb-9e51ff173201@62.60.178.187:80?security=none&type=xhttp&host=vpnvip1your-name.global.ssl.fastly.net&path=%2F%3Fed%3D2024#US🇺🇸 | @VPNineh | 19.37
+vless://12139db7-7f56-4285-9d41-3824523b572e@185.143.235.201:8443?security=tls&sni=decd.edgeofknf.info&type=ws&host=decd.edgeofknf.info&path=%2F&fp=chrome&alpn=http%2F1.1#IR🇮🇷 | @VPNineh | 192.73
+vless://f1b31217-ead8-45de-8ea8-5ef7c0b46d84@85.133.194.227:443?security=none&sni=f1b31217-ead8-45de-8ea8-5ef7c0b46d84.speedtest.net&type=tcp&host=www.speedtest.net&headerType=http#US🇺🇸 | @VPNineh | 101.48
+vless://a9fcd6e8-25e9-4a85-9311-533646e0a5fc@5.160.35.73:6687?security=none&type=tcp&headerType=http#IR🇮🇷 | @VPNineh | 233.15
+vless://0970359e-7e8c-4003-b991-863e0f26be7c@46.38.146.250:443?type=tcp&host=www.speedtest.net&headerType=http#R 🚩 | @VPNineh | 6.02
+vless://19335546-8ae2-4dd1-86da-987b2daa5a6c@62.60.176.99:8088?security=none&type=ws&path=%2F#IR🇮🇷 | @VPNineh | 107.67
+vless://413775c3-ec6e-4d65-a969-336205799f44@5.160.35.247:5112?security=none&type=tcp&headerType=http#IR🇮🇷 | @VPNineh | 226.52
+vless://0d280b77-2220-4dde-bc6a-859a668be26b@95.38.104.11:443?security=none&type=tcp&host=telewebion.com&headerType=http#IR🇮🇷 | @VPNineh | 204.22
+vless://f6f6693f-365c-4ec0-bd1e-ebe9406ba595@5.160.35.73:5149?security=none&type=tcp&headerType=http#IR🇮🇷 | @VPNineh | 230.58
+vless://c3b4b127-a7d9-4ded-b221-0023ccbe3f69@78.39.57.73:443?security=none&type=tcp&host=varzesh3.com&headerType=http#IR🇮🇷 | @VPNineh | 62.56
+vless://94f271b0-73ae-4516-8b43-7e84f18e4639@81.12.33.43:6003?security=reality&flow=xtls-rprx-vision&sni=refersion.com&type=tcp&fp=random&pbk=MALblDraoj_y4ueHCLXtuyOjtVE-iPyUOi2VJhtHFV8&sid=ca7a717b#R | IR🇮🇷 |  @VPNineh | 213.14
+vless://33dcd6b4-3891-45c4-9749-9eff8f948eaf@89.235.116.41:8087?type=tcp&headerType=http#IR🇮🇷 | @VPNineh | 229.22
+vless://290be591-627c-4790-99ce-0d94f331141f@2.189.175.46:7073?security=none&type=tcp&headerType=http#IR🇮🇷 | @VPNineh | 214.39
+vless://f9113568-93cd-4ac4-a1dd-b13b59d743be@45.139.11.243:8880?security=none&type=httpupgrade&host=shhproxy.com.www.speedtest.net.www.zula.ir.cloudflare.com.mozdfree.bUzz.&path=%2F%3Fed%3D2560#R 🚩 | @VPNineh | 153.57
+vless://98a396f3-78bc-23ea-8b65-d348aefcabd4@2.144.6.77:4283?security=none&type=tcp&host=anim.photoggenic.ir&headerType=http#IR🇮🇷 | @VPNineh | 327.78
+vless://53a58a9f-204a-4351-b093-16b9ada44071@185.143.232.201:2053?security=tls&sni=num.2d2d.ir&type=ws&path=%2F&fp=chrome#IR🇮🇷 | @VPNineh | 4318.11
+vless://78371cad-d1f1-4b4c-d3c8-a6fb2cea67a4@94.183.233.203:16520?security=none&type=tcp#IR🇮🇷 | @VPNineh | 309.52
+vless://1247a180-4776-4520-a4ae-870ee271fa6c@193.151.132.41:2053?security=tls&sni=num2.donlo.ir&type=ws&host=colf.ir&path=%2F&fp=chrome&allowInsecure=1#IR🇮🇷 | @VPNineh | 753.23
+vless://d684e328-426e-45e0-828d-148a386d4b3b@5.160.35.248:5113?security=none&type=tcp&headerType=http#IR🇮🇷 | @VPNineh | 231.65
+vless://7a54f360-b2e0-4f9b-a1c6-c81cfb33d1dc@188.121.117.164:443?security=tls&sni=c8ufeqc4qvgcpg2yct.khodadadatefeh.shop&type=ws&host=c8ufeqc4qvgcpg2yct.khodadadatefeh.shop&path=%2F&fp=randomized&alpn=http%2F1.1#FI🇫🇮 | @VPNineh | 115.02
+vless://53a58a9f-204a-4351-b093-16b9ada44071@185.143.233.120:2053?security=tls&sni=num.2d2d.ir&type=ws&path=%2F&fp=chrome#IR🇮🇷 | @VPNineh | 1026.6
+vless://f20d40be-a0d3-49da-b685-e4179230a495@62.60.194.238:443?security=none&type=tcp&host=ponisha.ir&path=%2F&headerType=http#IR🇮🇷 | @VPNineh | 526.8
+vless://14a5a45d-295a-4979-bee2-6bc9bd2bdad9@37.32.41.95:15737?type=tcp#IR🇮🇷 | @VPNineh | 90.42
+vless://1ec98dac-82d5-465a-9244-a326e9ad76e1@2.188.224.132:6060?security=none&type=ws&path=%2F#IR🇮🇷 | @VPNineh | 223.95
+vless://3f7fddf9-3fb7-4784-8f23-2b3caf1d850a@5.160.35.248:5126?security=none&type=tcp&headerType=http#IR🇮🇷 | @VPNineh | 228.56
+vless://2161cd46-8ee1-4d79-b75a-7214a8e8961c@109.94.165.106:10000?type=ws#IR🇮🇷 | @VPNineh | 224.56
+vless://3055df14-c714-4a00-a86b-b15c4c099ea5@185.49.105.170:8443?security=reality&sni=lovelive-anime.jp&type=grpc&serviceName=lovelive&fp=chrome&pbk=Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw&sid=6ba85179e30d4fc2#R | IR🇮🇷 |  @VPNineh | 222.89
+vless://53bea386-912e-4fe3-9eff-59c2285a176c@194.50.216.61:2053?security=tls&sni=9.neshaan.org&type=ws&host=9.neshaan.org&path=%2Fadmins%3Fed%3D2560&fp=chrome&alpn=http%2F1.1#R 🚩 | @VPNineh | 200
+vless://078ff9a4-3841-4047-b614-6529b19cf59f@62.60.210.120:443?security=reality&flow=xtls-rprx-vision&sni=cdn01.irantechsoftwares.com&type=tcp&fp=random&pbk=iGKunF680EUDy-6nhdD4uCKhOWOCblf78iUFkJcvY0c&sid=a110#R | IR🇮🇷 |  @VPNineh | 416.61
+vless://3ce3df55-74e5-4adf-b958-d25987e62ae8@37.32.126.114:2087?security=none&type=ws&path=%2F#IR🇮🇷 | @VPNineh | 218.8
+vless://3805d64e-2340-4088-a687-5c4f959d0253@89.235.116.51:8052?security=none&type=tcp&headerType=http#IR🇮🇷 | @VPNineh | 249.48
+vless://2b7240a7-ef93-4876-8fcb-641e924122a1@185.143.232.201:2086?security=none&type=ws&path=%2F#IR🇮🇷 | @VPNineh | 55.68
+vless://a9fcd6e8-25e9-4a85-9311-533646e0a5fc@5.160.35.73:6985?security=none&type=tcp&headerType=http#IR🇮🇷 | @VPNineh | 229.05
+vless://c283dd5f-b38c-404a-a0b8-1bb2b5a4bf52@89.235.116.46:7052?type=tcp&headerType=http#IR🇮🇷 | @VPNineh | 214.59
+vless://ed6fb549-d962-4e32-bb16-544c58b7b31f@5.160.35.73:5118?security=none&type=tcp&headerType=http#IR🇮🇷 | @VPNineh | 228.46
+vless://0d2b8ae1-e740-4e75-ba36-646d77eea301@185.191.77.7:443?security=tls&sni=fresh1002.fresh60.ir&type=ws&path=%2Fwsloc1003&fp=randomized&alpn=h2%2Chttp%2F1.1#IR🇮🇷 | @VPNineh | 304.53
+vless://7086a004-5c86-4004-9196-622925c75e75@185.49.105.251:6001?security=reality&sni=stackoverflow.com&type=tcp&fp=chrome&pbk=trf9y7T-2ZBrQoZ1R-Ii1FkCqmO3fbkXOzlGwJA86WQ#R | IR🇮🇷 |  @VPNineh | 219.19
+vless://488f79af-4353-0ea6-8c46-773b852d890a@188.212.97.252:3131?type=tcp#IR🇮🇷 | @VPNineh | 203.91
+vless://167e90a1-d598-4a99-91ff-7888bd4dab37@5.160.219.198:10622?security=none&type=ws&path=%2F%3Fed%3D2560#IR🇮🇷 | @VPNineh | 217.4
+vless://1db6e734-7383-4fb9-a24e-e95a52c46ae3@46.38.150.227:887?type=tcp&headerType=http#IR🇮🇷 | @VPNineh | 191.76
+vless://ab42b902-32fc-2f60-10c9-37704f6e88e3@217.114.40.120:6076?security=none&type=tcp&headerType=http#IR🇮🇷 | @VPNineh | 226.15
+vless://6dbef6da-9c8e-46db-bd0f-f5d92d65170c@91.236.168.124:8080?security=none&type=ws&path=%2F#IR🇮🇷 | @VPNineh | 196.09
