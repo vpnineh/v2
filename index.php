@@ -56,6 +56,20 @@ file_put_contents("Split/Normal/shadowsocks", $merged_shadowsocks);
 file_put_contents("Split/Base64/shadowsocks", base64_encode($merged_shadowsocks));
 file_put_contents("sm.txt", file_get_contents("https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/refs/heads/main/countries/ir/mixed"));
 
+
+// decoding...
+
+$url = "https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/refs/heads/main/countries/ir/mixed";
+
+// دریافت محتوای base64
+$base64_content = file_get_contents($url);
+
+// دیکد کردن محتوا
+$decoded = base64_decode($base64_content);
+
+// ذخیره در فایل smir.txt
+file_put_contents("smir.txt", $decoded);
+
 exit(0);
 } else {
     // If no changes, still exit with success
