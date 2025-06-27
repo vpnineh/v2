@@ -25,7 +25,6 @@ jobs:
           
       - name: Execute PHP script
         run: php index.php || true
-        run: php Deploy.php || true
 
       - name: Commit and Push changes
         run: |
