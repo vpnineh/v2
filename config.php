@@ -13,5 +13,7 @@ $subscription_urls = [
   #"https://raw.githubusercontent.com/coldwater-10/V2rayCollectorVpnclashfa/main/ss_iran.txt",
   #"https://raw.githubusercontent.com/coldwater-10/V2ray-Config-Lite/refs/heads/main/Splitted-By-Protocol/ss.txt",
   #"https://github.com/Surfboardv2ray/Proxy-sorter/raw/refs/heads/main/custom/mahsa.txt",
-  "https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/refs/heads/main/countries/ir/mixed",
+  #"https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/refs/heads/main/countries/ir/mixed",
+"https://drive.google.com/uc?export=download&id=1-EopH8hKLwaRJ3kxm3-40x4CZQ3prAzP",
+"https://raw.githubusercontent.com/Kolandone/v2raycollector/main/config_lite.txt",
 ];
