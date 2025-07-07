@@ -9,7 +9,7 @@ vless://bb5a9c6a-0721-4aa0-96d9-adbe7c281f12@193.151.145.21:46205?encryption=non
 vless://c5b69a7f-8e71-4425-8613-0f3c2a97d6d7@185.133.125.10:19161?encryption=none&headerType=http&host=soft98.ir&security=none&type=tcp#TCI%209%20%F0%9F%8C%90
 vless://84e7d7ea-fbb8-4a62-b3c6-a22165a21bee@185.133.125.10:19151?encryption=none&headerType=http&host=soft98.ir&security=none&type=tcp#TCI%2010%20%F0%9F%8C%90
 vless://84e7d7ea-fbb8-4a62-b3c6-a22165a21bee@185.133.125.8:19151?encryption=none&headerType=http&host=soft98.ir&security=none&type=tcp#TCI%2011%20%F0%9F%8C%90
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemN@45.153.124.90:989#%D9%85%D9%88%D9%84%D8%AF%D8%A7%D9%88%DB%8C%20%F0%9F%87%A6%F0%9F%87%A9%20
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@45.153.124.90:989#%D9%85%D9%88%D9%84%D8%AF%D8%A7%D9%88%DB%8C%20%F0%9F%87%A6%F0%9F%87%A9%20
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@154.90.62.168:989#%DA%A9%D8%B1%D9%87%20%D8%AC%D9%86%D9%88%D8%A8%DB%8C%20%F0%9F%87%B0%F0%9F%87%B7
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@147.78.1.230:989#%D9%85%DA%A9%D8%B2%DB%8C%DA%A9%20%F0%9F%87%B2%F0%9F%87%BD
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@138.186.143.32:989#%D9%BE%D8%B1%D9%88%20%F0%9F%87%B5%F0%9F%87%AA
