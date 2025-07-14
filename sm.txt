@@ -30,7 +30,7 @@ vless://c98a16e4-0dc5-42f0-b3db-30f04525c123@162.159.152.205:443?alpn=h3&ed=2560
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@190.103.176.32:989#%D8%A2%D8%B1%DA%98%D8%A7%D9%86%D8%AA%DB%8C%D9%86%20%F0%9F%87%A6%F0%9F%87%B7
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@91.148.135.31:989#%D9%82%D8%A8%D8%B1%D8%B3%20%F0%9F%87%A8%F0%9F%87%BE
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@38.54.57.90:989#%D8%A8%D8%B1%D8%B2%DB%8C%D9%84%20%F0%9F%87%A7%F0%9F%87%B7%20%DB%B1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.183:8080#%D9%87%D9%84%D9%86%D8%AF%20%F0%9F%87%B3%F0%9F%87%B1%20%DB%B1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.183:8080#%D9%87%D9%84%D9%86%D8%AF%20%F0%9F%87%B3%F0%9F%87%B1%20%DB%B1%20(1)
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.190:8080#%D9%87%D9%84%D9%86%D8%AF%20%F0%9F%87%B3%F0%9F%87%B1%20%DB%B2
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@185.231.233.112:989#%F0%9F%87%B5%F0%9F%87%B9%20%D9%BE%D8%B1%D8%AA%D9%82%D8%A7%D9%84%20%DB%B2
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@154.223.21.221:989#%D9%87%D9%86%DA%AF%20%DA%A9%D9%86%DA%AF%20%F0%9F%87%AD%F0%9F%87%B0
@@ -998,3 +998,10 @@ hysteria2://%40Hy2-Finland@65.109.54.40:16667/?insecure=1&obfs=salamander&obfs-p
 hysteria2://%40Hy2-Netherlands@89.38.98.121:21100/?insecure=1&obfs=salamander&obfs-password=IRAN2024%21#Hy2-Netherlands
 hysteria2://%40Hy2-France@194.163.172.119:443/?insecure=1&obfs=salamander&obfs-password=IRAN2024%21#Hy2-France
 hysteria2://%40Hy2-Germany@94.131.96.114:21034/?insecure=1&obfs=salamander&obfs-password=4WnRNEID9wrJuWjk#Hy2-Germany
+vless://63601f9f-7c67-4952-919a-1ef802b5a7ec@47.76.218.163:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=steep.skyfigure.top&path=%2FTelegram%2520%40V2ray_Alpha%2F&security=tls&sni=steep.skyfigure.top&type=ws#Channel%20id:%20@ShadowProxy66%20%F0%9F%87%AD%F0%9F%87%B0
+vless://63601f9f-7c67-4952-919a-1ef802b5a7ec@138.2.39.24:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=steep.skyfigure.top&path=%2FTelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2520%40pgkj666%2520%2F&security=tls&sni=steep.skyfigure.top&type=ws#Channel%20id:%20@ShadowProxy66%20%F0%9F%87%AF%F0%9F%87%B5
+vless://147d63c1-2f68-4f45-b3ea-cb3172fab133@104.18.26.90:2096?encryption=none&host=638874929583954786.zagreb-prx-dnraaad.info&path=%2Fjmgjhhws&security=tls&sni=638874929583954786.zagreb-prx-dnraaad.info&type=ws#Channel%20id:%20@ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6
+hysteria2://dongtaiwang.com@46.17.41.217:30033/?insecure=1&sni=www.bing.com#%D8%B1%D9%88%D8%B3%DB%8C%D9%87%20%F0%9F%87%B7%F0%9F%87%BA%20H4
+hysteria2://dongtaiwang.com@45.129.2.108:50850/?insecure=1&sni=www.bing.com#%D8%B1%D9%88%D8%B3%DB%8C%D9%87%20%F0%9F%87%B7%F0%9F%87%BAH3
+hysteria2://dongtaiwang.com@46.17.41.5:12904/?insecure=1&sni=apple.com#%D8%B1%D9%88%D8%B3%DB%8C%D9%87%20%F0%9F%87%B7%F0%9F%87%BA%20H2
+hysteria2://dongtaiwang.com@51.159.111.32:31180/?insecure=1&sni=apple.com#Channel%20id:%20@ShadowProxy66%20%F0%9F%87%AB%F0%9F%87%B7
