@@ -871,3 +871,4 @@ ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFN
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNTYwNmUxNy1lMzEyLTQzZmQtYmMwNC0xZWE3MTlkZjAyNmY@1.165.109.41:10031#%F0%9F%87%B9%F0%9F%87%BCTW_2%7C3.7MB/s
 vmess://de572177-9adc-40f7-957d-453b0fbf1acf@tunir.pl.time.aluwindoor.ir:1616?encryption=auto&headerType=http&host=goftino.com&security=none&type=tcp#%F0%9F%87%B5%F0%9F%87%B1PL_1%7C2.3MB/s
 vless://3c7a1227-5383-3a19-7084-76624ec8f84f@146.19.90.10:1443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=oE7ZEghzkaOUiw1q3PqBtpllP1NlPHLY8ydJRuICtko&security=reality&sni=speed.cloudflare.com&type=tcp#%F0%9F%87%B8%F0%9F%87%A8SC_1%7C2.7MB/s
+vmess://b7acf44f-3c3a-430c-8ed0-fb64ccc9a13a@www.speedtest.net:443?allowInsecure=1&encryption=auto&host=BLaZE-fRA-64.BLaZECLOuD.sitE&path=%2Flinkvkwss&security=tls&sni=BLaZE-fRA-64.BLaZECLOuD.sitE&type=ws#%D9%81%D8%B1%D8%A7%D9%86%D8%B3%D9%87%20%F0%9F%87%A8%F0%9F%87%B5%20%E2%AD%90
