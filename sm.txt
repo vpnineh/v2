@@ -997,3 +997,4 @@ vless://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@193.151.135.21:44443?encryption=non
 vless://44cb3f8c-57a4-4f2b-a0ae-d9121e54a598@ir.fxgoldensignals.com:54567?encryption=none&path=%2F54567%2Fmvfkvk&security=none&type=ws#%F0%9F%87%B3%F0%9F%87%B1%20NL%F0%9F%94%A5
 vmess://03fcc618-b93d-6796-6aed-8a38c975d581@fapeng.org:443?encryption=auto&host=fapeng.org&path=linkvws&security=tls&sni=fapeng.org&type=ws#%F0%9F%87%AB%F0%9F%87%B7%20France%20Fast
 vless://e137be9d-ac3a-4d54-897d-6a706f34795f@195.42.233.149:443?encryption=none&path=%2Fcdfighws&security=tls&type=ws#%D9%81%D8%B1%D8%A7%D9%86%D8%B3%D9%87%20%F0%9F%87%A8%F0%9F%87%B5%20%F0%9F%9A%80
+vless://e137be9d-ac3a-4d54-897d-6a706f34795f@195.42.233.149:443?allowInsecure=1&encryption=none&path=%2Fcdfighws&security=tls&sni=myket.ir&type=ws#%D9%81%D8%B1%D8%A7%D9%86%D8%B3%D9%87%20%F0%9F%87%A8%F0%9F%87%B5%20%F0%9F%9A%80
