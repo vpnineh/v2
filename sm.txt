@@ -981,3 +981,5 @@ vmess://a2313fba-74a6-11ed-a8bf-f23c91cfbbc9@30451d6f-sv2sg0-t8ivpf-z65w.hk3.p5p
 vmess://3bd247a8-993e-11ec-a8bf-f23c91cfbbc9@814047e3-sv2sg0-t09t13-z7a1.hk3.p5pv.com:80?encryption=auto&path=%2F&security=none&type=ws#%F0%9F%87%AD%F0%9F%87%B0HK-119.236.147.63-5954%20%7C%201.069MB
 vmess://aafedc64-9c23-11ef-a79f-f23c91cfbbc9@a818614b-sv0xs0-t2p691-1s4hc.hk3.p5pv.com:80?encryption=auto&path=%2F&security=none&type=ws#%F0%9F%87%AD%F0%9F%87%B0HK-119.236.147.63-5959%20%7C%201.728MB
 vmess://448aff24-b2e6-11ef-97e0-f23c9164ca5d@d6732c26-sv8cg0-sxxbmq-1szgv.hk3.p5pv.com:80?encryption=auto&path=%2F&security=none&type=ws#%F0%9F%87%AD%F0%9F%87%B0HK-119.236.147.63-5965%20%7C%200.887MB
+vmess://18cd1295-e59c-4de1-b78d-a0d9c2021548@174.138.55.42:51965?encryption=auto&headerType=http&security=none&type=tcp#%D9%86%DB%8C%D9%88%D8%AC%D8%B1%D8%B3%DB%8C%20%F0%9F%87%BA%F0%9F%87%B8%20%DB%B1
+trojan://92b2AnQ3A0@174.138.55.42:25192?headerType=http&security=none&type=tcp#%D9%86%DB%8C%D9%88%D8%AC%D8%B1%D8%B3%DB%8C%20%F0%9F%87%BA%F0%9F%87%B8%20%DB%B2
