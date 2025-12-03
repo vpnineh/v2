@@ -983,3 +983,14 @@ vmess://aafedc64-9c23-11ef-a79f-f23c91cfbbc9@a818614b-sv0xs0-t2p691-1s4hc.hk3.p5
 vmess://448aff24-b2e6-11ef-97e0-f23c9164ca5d@d6732c26-sv8cg0-sxxbmq-1szgv.hk3.p5pv.com:80?encryption=auto&path=%2F&security=none&type=ws#%F0%9F%87%AD%F0%9F%87%B0HK-119.236.147.63-5965%20%7C%200.887MB
 vmess://18cd1295-e59c-4de1-b78d-a0d9c2021548@174.138.55.42:51965?encryption=auto&headerType=http&security=none&type=tcp#%D9%86%DB%8C%D9%88%D8%AC%D8%B1%D8%B3%DB%8C%20%F0%9F%87%BA%F0%9F%87%B8%20%DB%B1
 trojan://92b2AnQ3A0@174.138.55.42:25192?headerType=http&security=none&type=tcp#%D9%86%DB%8C%D9%88%D8%AC%D8%B1%D8%B3%DB%8C%20%F0%9F%87%BA%F0%9F%87%B8%20%DB%B2
+ss://YWVzLTI1Ni1jZmI6SmRtUks5Z01FcUZnczhuUA@217.30.10.18:9003#%D9%84%D9%87%D8%B3%D8%AA%D8%A7%D9%86%20%F0%9F%87%B5%F0%9F%87%B1%20%DB%B2
+ss://YWVzLTI1Ni1jZmI6VFBxWDhlZGdiQVVSY0FNYg@217.30.10.18:9079#%D9%84%D9%87%D8%B3%D8%AA%D8%A7%D9%86%20%F0%9F%87%B5%F0%9F%87%B1%20%DB%B1
+ss://YWVzLTI1Ni1jZmI6YzNOdEhKNXVqVjJ0R0Rmag@217.30.10.18:9084#%D9%84%D9%87%D8%B3%D8%AA%D8%A7%D9%86%20%F0%9F%87%B5%F0%9F%87%B1%20%DB%B4
+ss://YWVzLTI1Ni1jZmI6Qk5tQVhYeEFIWXBUUmR6dQ@217.30.10.18:9020#%D9%84%D9%87%D8%B3%D8%AA%D8%A7%D9%86%20%F0%9F%87%B5%F0%9F%87%B1%20%DB%B3
+hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@77.90.41.197:35000/?insecure=1&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi&sni=jnir.pichondan.com#%D8%A2%D9%84%D9%85%D8%A7%D9%86%20%F0%9F%87%A9%F0%9F%87%AA%20H2
+tuic://a13a6ce4-cafa-4b26-a710-a03aa91c5418:a13a6ce4-cafa-4b26-a710-a03aa91c5418@40.233.77.57:52434?allow_insecure=1&alpn=h3&congestion_control=cubic&congestion_controller=cubic&sni=www.bing.com&udp_relay_mode=native&version=5#%DA%A9%D8%A7%D9%86%D8%A7%D8%AF%D8%A7%20%F0%9F%87%A8%F0%9F%87%A6%20Tuic%20V5
+hysteria2://Telegram--%3E%40Ln2Ray@[2a14:3f87:f001:9::a]:45000/?obfs=salamander&obfs-password=Telegram--%3E%40Ln2Ray&sni=gavazn.55994421.xyz#%D9%87%D9%84%D9%86%D8%AF%20%F0%9F%87%B3%F0%9F%87%B1%20%E2%9C%88%EF%B8%8F
+vless://01d5b4ef-e590-47d1-aff9-81ec4059055c@134.122.76.78:443?encryption=none&security=none&type=grpc#%D8%A2%D9%84%D9%85%D8%A7%D9%86%20%F0%9F%87%A9%F0%9F%87%AA%20%DB%B3
+vless://01d5b4ef-e590-47d1-aff9-81ec4059055c@165.22.76.156:443?encryption=none&security=none&type=grpc#%D8%A2%D9%84%D9%85%D8%A7%D9%86%20%F0%9F%87%A9%F0%9F%87%AA%20%DB%B2
+vless://01d5b4ef-e590-47d1-aff9-81ec4059055c@164.90.181.87:443?encryption=none&security=none&type=grpc#%D8%A2%D9%84%D9%85%D8%A7%D9%86%20%F0%9F%87%A9%F0%9F%87%AA%20%DB%B1
+vless://465f35d5-897c-4ce0-811c-24ac58711f45@70.34.210.5:443?encryption=none&security=none&type=grpc#%D8%B3%D9%88%D8%A6%D8%AF%20%F0%9F%87%B8%F0%9F%87%AA
