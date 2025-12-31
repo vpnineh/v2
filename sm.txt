@@ -687,3 +687,4 @@ vless://5ba2e48a-d36c-40a5-a4a1-2819ed6efce5@51.250.26.96:4248?encryption=none&f
 trojan://f36f4495b4b26cc2fe346cfa23e05b1b@160.16.68.250:1281?allowInsecure=1&sni=www.nintendogames.net#Channel%20id:%20@ShadowProxy66%20%F0%9F%87%AF%F0%9F%87%B5%20(2)
 vless://19ed6898-8249-4af7-9b31-5cf0e13b4e59@65.109.198.23:53330?encryption=none&path=%2F&security=none&type=ws#Channel%20id:%20@ShadowProxy66%20%F0%9F%87%AB%F0%9F%87%AE%20(9)
 vless://e615a5ba-fce3-4ffa-9c86-b0327a8a107a@185.235.241.58:443?allowInsecure=1&encryption=none&path=%2Fhormoz&security=tls&type=ws#Channel%20id:%20@ShadowProxy66%20%F0%9F%87%A9%F0%9F%87%AA%20(73)
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@176.123.5.253:990#%D9%85%D9%88%D9%84%D8%AF%D8%A7%D9%88%DB%8C%20%F0%9F%87%A6%F0%9F%87%A9
