@@ -8,8 +8,8 @@ $data1 = file_get_contents("https://raw.githubusercontent.com/sakha1370/OpenRay/
 
 
 
-if($data != $data1)
-{
+#if($data != $data1)
+#{
   
   $merged_data = merge_subscription($subscription_urls);
   $merged_vmess = array_to_subscription($merged_data['vmess']);
@@ -71,8 +71,8 @@ file_put_contents("smde.txt", $decoded);
   
 
 exit(0);
-} else {
+#} else {
     // If no changes, still exit with success
-    echo "No updates detected. Exiting successfully.\n";
-    exit(0);
-}
+#    echo "No updates detected. Exiting successfully.\n";
+#    exit(0);
+#}
