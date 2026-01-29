@@ -4,7 +4,7 @@ include "config.php";
 include "functions.php";
 
 $data = file_get_contents("sm.txt");
-$data1 = file_get_contents("https://drive.google.com/uc?export=download&id=1-EopH8hKLwaRJ3kxm3-40x4CZQ3prAzP");
+$data1 = file_get_contents("https://raw.githubusercontent.com/sakha1370/OpenRay/refs/heads/main/output_iran/iran_top100_checked.txt");
 
 
 
