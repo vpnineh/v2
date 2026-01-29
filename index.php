@@ -54,7 +54,7 @@ file_put_contents("Split/Normal/trojan", $merged_trojan);
 file_put_contents("Split/Base64/trojan", base64_encode($merged_trojan));
 file_put_contents("Split/Normal/shadowsocks", $merged_shadowsocks);
 file_put_contents("Split/Base64/shadowsocks", base64_encode($merged_shadowsocks));
-file_put_contents("sm.txt", file_get_contents("https://drive.google.com/uc?export=download&id=1-EopH8hKLwaRJ3kxm3-40x4CZQ3prAzP"));
+file_put_contents("sm.txt", file_get_contents("https://raw.githubusercontent.com/sakha1370/OpenRay/refs/heads/main/output_iran/iran_top100_checked.txt"));
 
 
 // decoding...
