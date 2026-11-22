@@ -15,5 +15,6 @@ $subscription_urls = [
   #"https://github.com/Surfboardv2ray/Proxy-sorter/raw/refs/heads/main/custom/mahsa.txt",
   #"https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/refs/heads/main/countries/ir/mixed",
   #"https://drive.google.com/uc?export=download&id=1-EopH8hKLwaRJ3kxm3-40x4CZQ3prAzP",
-  "https://raw.githubusercontent.com/sakha1370/OpenRay/refs/heads/main/output_iran/iran_top100_checked.txt"
+  "https://raw.githubusercontent.com/sakha1370/OpenRay/refs/heads/main/output_iran/iran_top100_checked.txt",
+  "https://github.com/snakem982/proxypool/raw/refs/heads/main/source/v2ray-2.txt"
 ];
